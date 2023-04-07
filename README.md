@@ -14,4 +14,4 @@ git remote add origin <repo-url>
 
 git push -u origin main
 
-I encountered username and password error in <git push> command and I solved this error with git access token.
+**I encountered username and password error in <git push> command and I solved this error with git access token.
