@@ -1,6 +1,6 @@
 # lab1.1
 
-#First attempt to upload local git files to github.
+## First attempt to upload local git files to github.
 
 git init
 
